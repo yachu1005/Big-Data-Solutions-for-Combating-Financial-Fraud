@@ -2,7 +2,7 @@
 
 <br>
 
-<img width="1289" alt="Screenshot 2024-05-02 at 02 43 00" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/51abb090-d162-4e68-bdd1-d06822c71a06" width="300" height="480">
+<img width="1289" alt="Screenshot 2024-05-02 at 02 43 00" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/51abb090-d162-4e68-bdd1-d06822c71a06" width="200" height="480">
 
 <br><br>
 
