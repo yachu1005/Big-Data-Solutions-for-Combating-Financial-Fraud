@@ -1,6 +1,6 @@
 # Big Data Solutions for Combating Financial Fraud
 
-Report Summary¶
+**Report Summary¶**
 Our project explores the detailed analysis of financial transactions and money laundering activities across various currencies, providing insights into the complex dynamics of illicit financial operations and their wider implications.
 
 Through our analysis, we uncovered interesting patterns indicative of money laundering practices across different currencies. The significant dominance of the US Dollar and Euro in both total transactions and money laundering activities suggests a preference for these currencies in facilitating illicit financial flows, likely due to their global prominence and liquidity. Additionally, our identification of recurring bank codes associated with laundering activities highlights the crucial role of regulatory compliance and financial intelligence in combating financial crimes.
@@ -15,7 +15,7 @@ Overall, our findings contribute to the theoretical discourse on financial crime
 
 
 
-Table of Contents
+**Table of Contents**
 Business Problem Definition
 Data Source Brief Summary
 Data Preparation & Cleaning
@@ -30,7 +30,8 @@ References
 Generative AI Disclosure
 
 
-Business Problem Definition¶
+**Business Problem Definition¶**
+
 In the fight against financial fraud, predicting fraudulent transactions within massive datasets is crucial. Our project aims to leverage advanced analytics and big data techniques to identify patterns of money laundering within a comprehensive synthetic financial transaction dataset provided by IBM. Below are our objectives:
 
 Analyze synthetic transaction data and identify patterns indicative of fraud.
