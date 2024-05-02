@@ -8,7 +8,7 @@
 
 <br><br>
 
-**Business Problem Definition**
+## **Business Problem Definition**
 
 
 In the fight against financial fraud, predicting fraudulent transactions within massive datasets is crucial. Our project aims to leverage advanced analytics and big data techniques to identify patterns of money laundering within a comprehensive synthetic financial transaction dataset provided by IBM. Below are our objectives:
@@ -29,11 +29,11 @@ Overall, our project aims to contribute to the ongoing fight against financial f
 
 <br><br>
 
-**Data Visualization**
+## **Data Visualization**
 
 <br>
 
-**What Does the Trend in Daily Laundering Amounts Reveal Over Time?**
+### **What Does the Trend in Daily Laundering Amounts Reveal Over Time?**
 
 <br>
 
@@ -43,7 +43,7 @@ Answer: The 'Laundering Amount Over Time' chart displays data points on a line g
 
 <br><br>
 
-**What is the Proportional Distribution of Different Money Laundering Patterns Within Transaction Cycles?**
+#### **What is the Proportional Distribution of Different Money Laundering Patterns Within Transaction Cycles?**
 
 <br>
 
@@ -214,13 +214,13 @@ Answer: Based on the graph, we can see that the most common cross-currency trans
 
 <br><br>
 
-**Future Improvement**
+## **Future Improvement**
 
 For future improvement in the detection and analysis of money laundering, integrating additional data sources could provide significant benefits. Incorporating diverse data such as real-time transaction feeds, geographic information, and external watchlists could enrich the analysis, allowing for the identification of nuanced patterns and correlations not visible through transaction data alone. Furthermore, experimenting with advanced machine learning models, including ensemble methods, deep learning networks, or anomaly detection systems, could enhance detection rates and reduce false positives. Expanding the temporal analysis to cover longer periods and conducting comparative year-over-year reviews might also yield insights into long-term trends and help predict future laundering activities based on past patterns. Moreover, developing a collaborative framework where multiple financial institutions can share insights and data, while respecting privacy norms, would lead to a more comprehensive view of money laundering tactics. Lastly, continuously updating analysis techniques to align with new regulatory requirements and emerging financial instruments, like cryptocurrencies, can help stay ahead of launderers who adapt quickly to the changing financial landscape.
 
 <br><br>
 
-**Conclusion**
+## **Conclusion**
 
 This comprehensive analysis of money laundering transactions using big data analytics has illuminated several key aspects of financial fraud. Our findings emphasize the importance of transaction timing and methods of currency conversion as crucial elements in laundering schemes. Notably, peak periods for laundering activities were identified, providing critical insights for financial institutions to enhance their monitoring systems during these times. Our study also uncovered the predominance of certain currencies and transaction methods in laundering processes, with the USD and Euro being particularly prominent due to their global acceptance and ease of use in large-scale transactions. Furthermore, sophisticated laundering patterns like "Scatter-Gather" and "Cycle" typologies were prevalent, indicating that launderers employ complex strategies to evade detection. The use of machine learning models aimed to enhance detection capabilities, though challenges like data imbalance limited the effectiveness of our initial models. However, the insights gained pave the way for further refining these models and incorporating advanced analytical tools. Moving forward, building on these insights will be crucial. By implementing the suggested improvements and integrating broader data sets, we can develop more robust defenses against money laundering. This endeavor will not only help protect the integrity of financial systems but also contribute to a broader understanding of financial crimes and their prevention mechanisms. These efforts represent a step toward a more secure and transparent financial environment, highlighting the pivotal role of data analytics in combating financial fraud.
 
