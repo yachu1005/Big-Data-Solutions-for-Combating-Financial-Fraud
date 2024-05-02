@@ -1,5 +1,7 @@
 # Big Data Solutions for Combating Financial Fraud
 
+<img width="1289" alt="Screenshot 2024-05-02 at 02 43 00" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/51abb090-d162-4e68-bdd1-d06822c71a06">
+
 <br>
 
 ## **Table of Contents**
@@ -43,7 +45,7 @@ Answer: The 'Laundering Amount Over Time' chart displays data points on a line g
 
 <br><br>
 
-#### **What is the Proportional Distribution of Different Money Laundering Patterns Within Transaction Cycles?**
+### **What is the Proportional Distribution of Different Money Laundering Patterns Within Transaction Cycles?**
 
 <br>
 
@@ -57,7 +59,7 @@ Answer: The pie chart presented above shows the distribution of transactions acr
 
 <br><br>
 
-**What is the breakdown of transactions by currency and laundering type?**
+### **What is the breakdown of transactions by currency and laundering type?**
 
 <br>
 
@@ -69,7 +71,7 @@ Answer: Based on the chart provided, it's evident that within laundering-related
 
 <br><br>
 
-**What is the trend regarding at what time most money laundering transactions occur?**
+### **What is the trend regarding at what time most money laundering transactions occur?**
 
 <br>
 
@@ -81,7 +83,7 @@ Answer: This graph shows the number of transactions for each hour of the day. Th
 
 <br><br>
 
-**What is the range of transaction volume for each currencies involved in laundering?**
+### **What is the range of transaction volume for each currencies involved in laundering?**
 
 <br>
 
@@ -93,7 +95,7 @@ Answer: In the above graph, we have gathered data for the top 5 currencies invol
 
 <br><br>
 
-**On which day of the week do fraudulent transactions peak, and what are the potential strategies to combat this?**
+### **On which day of the week do fraudulent transactions peak, and what are the potential strategies to combat this?**
 
 <br>
 
@@ -105,7 +107,7 @@ Answer: The plot reveals a spike in fraudulent transactions on Saturdays. This t
 
 <br><br>
 
-**What patterns can be observed in transactions throughout the day?**
+### **What patterns can be observed in transactions throughout the day?**
 
 <br>
 
@@ -117,7 +119,7 @@ Answer: The chart shows two key transaction trends throughout the day. There's a
 
 <br><br>
 
-**Distribution of fraud and non fraud transactions across different currencies**
+### **Distribution of fraud and non fraud transactions across different currencies**
 
 <br>
 
@@ -129,7 +131,7 @@ The graph distinguishes between fraudulent transactions (depicted in red) and no
 
 <br><br>
 
-**How do perpetrators of money laundering typically change currency and payment format?**
+### **How do perpetrators of money laundering typically change currency and payment format?**
 
 <br>
 
@@ -141,7 +143,7 @@ Answer: From the graph, we can see the visualization of one example of the longe
 
 <br><br>
 
-**Interrelationships between different transaction features within laundering networks**
+### **Interrelationships between different transaction features within laundering networks**
 
 <br>
 
@@ -153,7 +155,7 @@ Answer: The network graph offers a visual representation of the intricate relati
 
 <br><br>
 
-**Evolution of laundering patterns over time**
+### **Evolution of laundering patterns over time**
 
 <br>
 
@@ -165,7 +167,7 @@ Answer: The graph provides a comprehensive visualization of transaction dynamics
 
 <br><br>
 
-**Which money laundering typology involves the most bank accounts, and what does this suggest about the complexity of these schemes?**
+### **Which money laundering typology involves the most bank accounts, and what does this suggest about the complexity of these schemes?**
 
 <br>
 
@@ -177,7 +179,7 @@ Answer: The bar chart demonstrates that the "Scatter-Gather" and "Gather-Scatter
 
 <br><br>
 
-**What does the variation in cycle duration reveal about different money laundering typologies?**
+### **What does the variation in cycle duration reveal about different money laundering typologies?**
 
 <br>
  
@@ -189,7 +191,7 @@ Answer: The graph presents the average, minimum, and maximum duration of money l
 
 <br><br>
 
-**How do different money laundering typologies distribute across various transaction amount ranges?**
+### **How do different money laundering typologies distribute across various transaction amount ranges?**
 
 <br>
 
@@ -202,7 +204,7 @@ Answer: The chart demonstrates a prevalence of smaller transactions within the '
 
 <br><br>
 
-**What is the distribution of Cross-Currency Transaction among the Money Laundering transaction?**
+### **What is the distribution of Cross-Currency Transaction among the Money Laundering transaction?**
 
 <br>
 
