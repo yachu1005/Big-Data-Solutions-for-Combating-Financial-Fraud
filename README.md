@@ -4,7 +4,7 @@
 
 <img width="242" alt="Screenshot 2024-05-02 at 02 25 00" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/650322f1-f83a-470f-82c6-a1f6521f3ade">
 
----
+<br>
 
 **Business Problem Definition**
 
@@ -33,16 +33,23 @@ Overall, our project aims to contribute to the ongoing fight against financial f
 
 **What Does the Trend in Daily Laundering Amounts Reveal Over Time?**
 
+<br>
+
 <img width="772" alt="Screenshot 2024-05-02 at 02 04 47" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/ed8c5be8-db5e-4b39-8b12-cd40d01bb9b8">
 
 Answer: The 'Laundering Amount Over Time' chart displays data points on a line graph, where each point represents the total amount laundered per day. These are plotted as dots connected by lines to illustrate the trend over time. The chart visually represents the daily changes in the total amount involved in laundering activities within the sampled dataset.
 
+<br>
 
 **What is the Proportional Distribution of Different Money Laundering Patterns Within Transaction Cycles?**
+
+<br>
 
 <img width="289" alt="Screenshot 2024-05-02 at 02 05 28" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/9ef04fc7-1492-4b63-b7fc-488ccde3feb2">
 
 <img width="677" alt="Screenshot 2024-05-02 at 02 06 05" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/e5441c81-63b0-404d-9fe8-18a36c46df3b">
+
+<br>
 
 Answer: The pie chart presented above shows the distribution of transactions across different money laundering patterns within a cycle. Each segment's size reflects the proportion of transactions that fall under each laundering pattern type, with labels such as "STACK," "SCATTER-GATHER," "CYCLE," "FAN-IN," "FAN-OUT," "GATHER-SCATTER," "BIPARTITE," and "RANDOM." The presence of these labels helps in identifying the various methods of money laundering detected in the dataset. It appears that the laundering pattern types are relatively evenly distributed in the sampled data, with no single type dominating the chart. This suggests that, within the dataset sampled, there is a diverse range of money laundering patterns employed, rather than a concentration on any particular method. It's an indication that the entities involved in money laundering are using a variety of techniques to conduct their illicit activities.
 
