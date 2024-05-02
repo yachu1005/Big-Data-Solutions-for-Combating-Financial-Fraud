@@ -1,1 +1,1 @@
-# Big-Data-Solutions-for-Combating-Financial-Fraud
+# Big Data Solutions for Combating Financial Fraud
