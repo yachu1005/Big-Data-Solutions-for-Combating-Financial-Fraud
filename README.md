@@ -4,7 +4,7 @@
 
 <img width="242" alt="Screenshot 2024-05-02 at 02 25 00" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/650322f1-f83a-470f-82c6-a1f6521f3ade">
 
-<br>
+<br><br>
 
 **Business Problem Definition**
 
@@ -53,49 +53,91 @@ Answer: The 'Laundering Amount Over Time' chart displays data points on a line g
 
 Answer: The pie chart presented above shows the distribution of transactions across different money laundering patterns within a cycle. Each segment's size reflects the proportion of transactions that fall under each laundering pattern type, with labels such as "STACK," "SCATTER-GATHER," "CYCLE," "FAN-IN," "FAN-OUT," "GATHER-SCATTER," "BIPARTITE," and "RANDOM." The presence of these labels helps in identifying the various methods of money laundering detected in the dataset. It appears that the laundering pattern types are relatively evenly distributed in the sampled data, with no single type dominating the chart. This suggests that, within the dataset sampled, there is a diverse range of money laundering patterns employed, rather than a concentration on any particular method. It's an indication that the entities involved in money laundering are using a variety of techniques to conduct their illicit activities.
 
+<br>
 
 **What is the breakdown of transactions by currency and laundering type?**
 
+<br>
+
 <img width="680" alt="Screenshot 2024-05-02 at 02 07 37" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/07e700fc-583a-4731-80e3-8461682b78d0">
+
+<br>
 
 Answer: Based on the chart provided, it's evident that within laundering-related transactions, US Dollars and Euros are the predominant currencies. Remarkably, within these currencies, laundering types such as STACK, SCATTER-GATHER, and GATHER-SCATTER demonstrate substantial prevalence. Additionally, it can be observed that the laundering type SCATTER-GATHER appears in almost all currencies, highlighting its widespread occurrence. Therefore, emphasis on addressing these types of money laundering could be beneficial.
 
+<br>
 
 **What is the trend regarding at what time most money laundering transactions occur?**
 
+<br>
+
 <img width="799" alt="Screenshot 2024-05-02 at 02 08 34" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/0ddba158-d5e9-4198-8744-fee0ad8987da">
+
+<br>
 
 Answer: This graph shows the number of transactions for each hour of the day. The horizontal axis (x-axis) represents the 24 hours of the day. The vertical axis (y-axis) represents the number of transactions. From the graph, we can see that the highest number of money laundry transactions is around 13:00 (1 PM), while the hours late at night and early in the morning show fewer transactions, as shown by shorter bars. An interesting observation is that money laundering transactions reach their peak at 5 AM before reaching the next peak in the afternoon.
 
+<br>
+
 **What is the range of transaction volume for each currencies involved in laundering?**
+
+<br>
 
 <img width="799" alt="Screenshot 2024-05-02 at 02 09 01" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/5fa12661-5cdd-4599-b95f-85ca141a446d">
 
+<br>
+
 Answer: In the above graph, we have gathered data for the top 5 currencies involved in laundering activities, ranking them based on their transaction volume. The plotted currencies—US Dollar, Euro, Ruble, Yuan, and Yen offers insight into the distribution of transaction volumes within the dataset. The width of each violin plot segment reflects the prevalence of each currency within the dataset. Notably, the US Dollar appears to have a broader spread compared to the other currencies. Conversely, the Ruble has the narrowest width, indicating its relatively minor presence in the laundering activity dataset. The Yen displays an average transaction volume exceeding 100 billion units. On the other hand, the US Dollar, despite its widespread presence, showcases an average transaction volume hovering around 100 million units. By analyzing the details of transaction volume and prevalence, this visualization provides valuable insights into the distribution of laundering activities among the top 5 currencies.
+
+<br>
 
 **On which day of the week do fraudulent transactions peak, and what are the potential strategies to combat this?**
 
+<br>
+
 <img width="799" alt="Screenshot 2024-05-02 at 02 09 46" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/7a69f8c5-8161-4cdc-8673-0f2c8a678c9e">
+
+<br>
 
 Answer: The plot reveals a spike in fraudulent transactions on Saturdays. This trend could be attributed to potential lower vigilance due to weekend staffing. Addressing this might include enhanced monitoring with tools to detect fraud patterns, using anomaly detection to flag irregularities, ensuring sufficient weekend staff, implementing real-time analysis to intercept suspicious activities, and educating customers on fraud risks. Proactively adjusting strategies can help institutions safeguard against heightened weekend fraud risks.
 
+<br>
+
 **What patterns can be observed in transactions throughout the day?**
+
+<br>
 
 <img width="799" alt="Screenshot 2024-05-02 at 02 10 34" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/a27452bd-4238-48fa-983a-a6e16ab4f62a">
 
+<br>
+
 Answer: The chart shows two key transaction trends throughout the day. There's a significant rise in the number of transactions around noon, possibly aligning with peak business hours. Meanwhile, the average transaction value remains consistent, except for a pronounced increase at 3 PM, which does not coincide with the peak number of transactions. This discrepancy at 3 PM could be significant for fraud detection, signaling unusual, high-value transactions. This exceptional spike at an off-peak hour might necessitate further investigation for potential fraud or money laundering.
+
+<br>
 
 **Distribution of fraud and non fraud transactions across different currencies**
 
+<br>
+
 <img width="799" alt="Screenshot 2024-05-02 at 02 11 15" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/166cdf2a-85f6-4876-a2e4-5171e6e6f730">
+
+<br>
 
 The graph distinguishes between fraudulent transactions (depicted in red) and non-fraudulent transactions (depicted in blue). It's notable that the number of transactions is evenly spread out across currencies, with USD and Euro showing the highest transaction volumes. Despite the even distribution, there's a significant spike in the average transaction value for both USD and Euro. This spike could indicate that fraudulent activities are more prevalent in transactions involving these currencies, possibly due to their widespread use and higher values, making them attractive targets for fraudulent activities. Further investigation into the nature of these transactions could provide insights into why USD and Euro transactions are particularly susceptible to fraudulent activities.
 
+<br>
+
 **How do perpetrators of money laundering typically change currency and payment format?**
+
+<br>
 
 <img width="799" alt="Screenshot 2024-05-02 at 02 12 00" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/2eced111-1871-4290-90bf-338463f6c3ca">
 
+<br>
+
 Answer: From the graph, we can see the visualization of one example of the longest transaction chain in one cycle, which consists of 24 transactions in one cycle with the "Random" Money Laundering type. From the graph, we observe that the transaction perpetrator carried out transactions in cross-currency several times, namely in US Dollar, Euro, and UK Pound, to obscure them from the detection of that suspicious transaction.
+
+<br>
 
 **Interrelationships between different transaction features within laundering networks**
 
@@ -138,11 +180,13 @@ Answer: The chart demonstrates a prevalence of smaller transactions within the '
 
 Answer: Based on the graph, we can see that the most common cross-currency transaction in the transactions is Euro-US Dollar, followed by Yen-US Dollar, Euro-Yuan, US Dollar-Yen, and other currency pairs. Of these cross-currency transactions, the most prevalent money laundering method is STACK. This could be because STACK money laundering type typically involves multiple layers of transactions to further obscure the source of funds and changing currencies will adds another layer of complexity for the stack to the laundering process, making it harder to follow the money trail.
 
+<br><br>
 
 **Future Improvement**
 
 For future improvement in the detection and analysis of money laundering, integrating additional data sources could provide significant benefits. Incorporating diverse data such as real-time transaction feeds, geographic information, and external watchlists could enrich the analysis, allowing for the identification of nuanced patterns and correlations not visible through transaction data alone. Furthermore, experimenting with advanced machine learning models, including ensemble methods, deep learning networks, or anomaly detection systems, could enhance detection rates and reduce false positives. Expanding the temporal analysis to cover longer periods and conducting comparative year-over-year reviews might also yield insights into long-term trends and help predict future laundering activities based on past patterns. Moreover, developing a collaborative framework where multiple financial institutions can share insights and data, while respecting privacy norms, would lead to a more comprehensive view of money laundering tactics. Lastly, continuously updating analysis techniques to align with new regulatory requirements and emerging financial instruments, like cryptocurrencies, can help stay ahead of launderers who adapt quickly to the changing financial landscape.
 
+<br><br>
 
 **Conclusion**
 
