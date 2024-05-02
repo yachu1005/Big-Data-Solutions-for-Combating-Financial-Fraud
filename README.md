@@ -24,10 +24,12 @@ Overall, our project aims to contribute to the ongoing fight against financial f
 
 <img width="1506" alt="Screenshot 2024-05-02 at 01 55 06" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/6e1e8f30-f655-4597-967e-9cb5f4305434">
 
-</div>
 
+<br><br>
 
 **Data Visualization**
+
+<br>
 
 **What Does the Trend in Daily Laundering Amounts Reveal Over Time?**
 
