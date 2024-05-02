@@ -1,6 +1,6 @@
 # Big Data Solutions for Combating Financial Fraud
 
-<br><br>
+<br>
 
 <img width="1289" alt="Screenshot 2024-05-02 at 02 43 00" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/51abb090-d162-4e68-bdd1-d06822c71a06" width="300" height="500">
 
@@ -27,6 +27,10 @@ By leveraging advanced analytics and big data techniques to analyze vast amounts
 Overall, our project aims to contribute to the ongoing fight against financial fraud by leveraging cutting-edge analytics and big data techniques to identify and disrupt patterns of money laundering. By doing so, we not only protect the integrity of financial markets but also uphold the principles of transparency, accountability, and trust that underpin a healthy and resilient financial ecosystem.
 
 <br><br>
+
+## **Transform the Patterns Data**
+
+<br>
 
 <img width="1506" alt="Screenshot 2024-05-02 at 01 55 06" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/6e1e8f30-f655-4597-967e-9cb5f4305434">
 
