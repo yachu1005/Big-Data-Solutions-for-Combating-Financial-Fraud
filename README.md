@@ -30,6 +30,7 @@ Generative AI Disclosure
 
 **Business Problem Definition**
 
+
 In the fight against financial fraud, predicting fraudulent transactions within massive datasets is crucial. Our project aims to leverage advanced analytics and big data techniques to identify patterns of money laundering within a comprehensive synthetic financial transaction dataset provided by IBM. Below are our objectives:
 
 Analyze synthetic transaction data and identify patterns indicative of fraud.
