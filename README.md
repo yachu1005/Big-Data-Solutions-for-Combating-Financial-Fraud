@@ -1,6 +1,8 @@
 # Big Data Solutions for Combating Financial Fraud
 
-**Table of Contents**
+<br>
+
+## **Table of Contents**
 
 <img width="242" alt="Screenshot 2024-05-02 at 02 25 00" src="https://github.com/yachu1005/Big-Data-Solutions-for-Combating-Financial-Fraud/assets/145074370/650322f1-f83a-470f-82c6-a1f6521f3ade">
 
