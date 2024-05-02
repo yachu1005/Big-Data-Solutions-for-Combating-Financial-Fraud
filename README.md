@@ -1,34 +1,29 @@
 # Big Data Solutions for Combating Financial Fraud
 
-**Report Summary¶**
-
-Our project explores the detailed analysis of financial transactions and money laundering activities across various currencies, providing insights into the complex dynamics of illicit financial operations and their wider implications.
-
-Through our analysis, we uncovered interesting patterns indicative of money laundering practices across different currencies. The significant dominance of the US Dollar and Euro in both total transactions and money laundering activities suggests a preference for these currencies in facilitating illicit financial flows, likely due to their global prominence and liquidity. Additionally, our identification of recurring bank codes associated with laundering activities highlights the crucial role of regulatory compliance and financial intelligence in combating financial crimes.
-
-Moreover, we observed that most laundering transactions involve a single currency, emphasizing the importance of currency stability and liquidity in facilitating illicit transactions. Additionally, the slight inclination towards currency conversion within laundering cycles suggests the adaptability of money laundering schemes. Similarly, analyzing the average duration of a laundering cycle per day sheds light on the operational intricacies of laundering schemes and underscores the importance of continuous monitoring and regulatory oversight.
-
-Our visualizations, particularly the 'Laundering Amount Over Time' chart, offer valuable insights into the temporal dynamics of laundering activities, aligning with theories of financial crime and market volatility. Furthermore, our analysis of the distribution of laundering patterns within a cycle highlights the multifaceted nature of money laundering techniques employed by criminal networks. For instance, a spike in fraudulent transactions on Saturdays may be attributed to potential lower vigilance due to weekend staffing.
-
-Moving forward, we aim to predict whether a client is engaged in money laundering, a crucial task in business applications. Automating this process can significantly save time and effort by replacing manual scanning with automated detection of problematic transactions. However, we face challenges due to data imbalance, with only 1240 rows indicating money laundering out of nearly a million rows. To address this, we downsample non-money laundering rows to 2480, twice the number of money laundering records. We then select key columns such as sender and recipient accounts, payment currency, format, and amount to predict money laundering.
-
-Overall, our findings contribute to the theoretical discourse on financial crime prevention, emphasizing the need for robust regulatory frameworks and enforcement mechanisms to combat illicit financial activities effectively.
-
-
-
 **Table of Contents**
 
 Business Problem Definition
+
 Data Source Brief Summary
+
 Data Preparation & Cleaning
+
 Exploratory Data Analysis (EDA)
+
 Data Analysis
+
 Data Analysis with SQL
+
 Data Visualization
+
 Machine Learning Techniques
+
 Future Improvement
+
 Conclusion
+
 References
+
 Generative AI Disclosure
 
 
